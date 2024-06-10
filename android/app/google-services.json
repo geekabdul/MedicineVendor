@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "825982847668",
+    "project_id": "medicinevendor-dc3cf",
+    "storage_bucket": "medicinevendor-dc3cf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:825982847668:android:5572bfe5671389767de5e1",
+        "android_client_info": {
+          "package_name": "com.medicinevendor"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAQD_eyQyLQY99KDln2UCLfJ-aW8JD5_2k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
